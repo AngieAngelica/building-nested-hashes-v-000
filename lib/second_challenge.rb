@@ -9,3 +9,6 @@ def second_challenge
 
   
 end
+
+:name=>"Jon",
+:email=>"jon_snow@thewall.we",
